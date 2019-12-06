@@ -29,6 +29,7 @@ echo "/ TOOLS : Spam-612/"|lolcat
 echo "/ CODED : j4nc0ks4kti /"|lolcat
 echo "/ TEAM : Hijrah Cyber Team/"|lolcat
 echo "##################################"|lolcat 
+
 echo "daftar tools spam"
 echo "[1] Bom Chat Whatsapp"
 echo "[2] Spam Telpon"
@@ -53,5 +54,6 @@ if [ $bro = 3 ] || [ $bro = 03 ]
 then
 echo "\033[31;1mwe are Hijrah Cyber Team "sleep 1
 echo "\033[32;1mTerima kasih Sudah Menggunakan Tools ini"sleep 1
-echo "\033[35;1mSelamat Beraktivitas"sleep 1exit
+echo "\033[35;1mSelamat Beraktivitas"sleep 1
+exit
 fi
