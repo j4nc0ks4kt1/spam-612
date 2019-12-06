@@ -39,14 +39,14 @@ if [ $bro = 1 ] || [ $bro = 01 ]
 then
 clear
 php mdr2.php
-sh B3604-spam.sh
+sh spam-612.sh
 fi
 
  if [ $bro = 2 ] || [ $bro = 01 ]
 then
 clear
 php mdr1.php
-sh B3604-spam.sh
+sh spam-612.sh
 fi 
 
 if [ $bro = 3 ] || [ $bro = 03 ]
