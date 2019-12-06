@@ -1,4 +1,14 @@
-﻿
+﻿#MAU NGAPAIN MONYET !!
+#MAU RECODE !?
+#HAHAHA KONTOL RECODE AJG !!
+#NGAPAIN MASIH DI SINI MONYET !!
+#PERGI LAGI SANA KONTOL !!
+#BANGSAT LU ANJING !!
+#LU YANG MONYET !!
+#PERGI JAUH JAUH KONTOL BABI !!
+#SALAM HEKEL
+#SALAM MAQLO
+clear
 #Variables
 b='\033[1m'
 u='\033[4m'
@@ -15,11 +25,9 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 echo "##################################"|lolcat
-
 echo "/ TOOLS : Spam-612/"|lolcat
 echo "/ CODED : j4nc0ks4kti /"|lolcat
 echo "/ TEAM : Hijrah Cyber Team/"|lolcat
-
 echo "##################################"|lolcat 
 echo "daftar tools spam"
 echo "[1] Bom Chat Whatsapp"
