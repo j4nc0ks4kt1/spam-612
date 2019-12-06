@@ -32,7 +32,8 @@ echo "##################################"|lolcat
 echo "daftar tools spam"
 echo "[1] Bom Chat Whatsapp"
 echo "[2] Spam Telpon"
-echo "[3] Keluar"read -p "PILIH SALAH SATU : " bro 
+echo "[3] Keluar"
+read -p "PILIH SALAH SATU : " bro 
 
 if [ $bro = 1 ] || [ $bro = 01 ]
 then
